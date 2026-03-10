@@ -1,0 +1,24 @@
+body{
+    background-color: #8fb3be;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    text-align: left;
+}
+
+img{
+    border: 2px solid black;
+}
+
+/* afbeelding links */
+.links{
+    float: left;
+    margin: 10px;
+}
+
+/* afbeelding rechts */
+.rechts{
+    float: right;
+    margin: 10px;
+}
